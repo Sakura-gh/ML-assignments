@@ -9,19 +9,24 @@
 
 #### Assignments
 
-- PM2.5预测：
+- [1_Regression](./Assignment/1_Regression)
+- [2_Classification](./Assignment/2_Classification)
+- [3_CNN](./Assignment/3_CNN)
+- [4_RNN](./Assignment/4_RNN)
+- [5_Explainable AI](./Assignment/5_Explainable-AI)
+- [6_Adversarial Attack](./Assignment/6_Adversarial-Attack)
+- [7_Network Compression](./Assignment/7_Network-Compression)
+- [8_Seq2Seq](./Assignment/8_Seq2Seq)
+- [9_Unsupervised Learning](./Assignment/9_Unsupervised-Learning)
 
-    简介：提供前9个小时的空气数据(包括PM2.5、O2、N2等18种大气成分)，请预测第10个小时的PM2.5数值
+- [10_Anomaly Detection](./Assignment/10_Anomaly-Detection)
 
-    思路：Regression的问题，这里分别采用手写linear的gradient descent(包括Adagrad、Adam)的解法，以及利用Keras搭建神经网络的解法，在data不多的情况下，NN的方法很容易overfitting
+- [11_GAN](./Assignment/11_GAN)
 
-    链接：[Regression](./Assignment/Assignment1)
+- [12_Transfer Learning](./Assignment/12_Transfer-Learning)
 
-- 个人年收入预测：
+- [13_Meta Learning](./Assignment/13_Meta-Learning)
 
-    简介：提供一个人的各种信息，包括学历、身高等，请预测他的收入是否会大于$50000
+- [14_Life Long Learning](./Assignment/14_Life-Long-Learning)
 
-    思路：binary classification，这里分别采用手写cross entropy的gradient(包括Adagrad)的解法，以及利用Keras搭建神经网络的解法
-
-    链接：[Classification](./Assignment/Assignment2)
-
+- [15_Reinforcement Learning](./Assignment/15_Reinforcement-Learning)
